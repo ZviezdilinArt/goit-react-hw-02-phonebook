@@ -28,7 +28,6 @@ export const Button = styled.button`
   transition: 400ms linear;
   font-family: 'Roboto';
   font-weight: 600;
-  margin-left: 480px;
 
 
   &:hover {
